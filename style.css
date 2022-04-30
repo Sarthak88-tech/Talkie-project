@@ -1,0 +1,235 @@
+body
+{
+    margin: 0;
+}
+
+.bg_img1 img
+{
+    position: relative;
+    background-size: cover;
+    height:644.4px;
+    width: 1343.4px;
+
+}
+
+.wel
+{
+    left: 518px;
+    top: 20px;
+    position: absolute;
+    
+}
+
+.container
+{
+    height: 380px;
+    width: 600px;
+    border-radius: 13px;
+    padding-top: 20px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    top: 135px;
+    left: 365px;
+    position: absolute;
+}
+
+#pls
+{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.txtInput textarea
+{
+    top: 50px;
+    resize: none;
+    position: absolute;
+}
+
+.txtInput
+{
+    padding-left: 118px;
+    top: 40px;
+    position: absolute;
+}
+
+
+.list
+{
+    position: absolute;
+    top: 246px;
+    left: 0px;
+}
+
+
+
+.label
+{
+    position: absolute;
+    left: 120px;
+    width: 300px;
+}
+
+.selt
+{
+    padding-top: 35px;
+    padding-left: 120px;
+    position: absolute;
+}
+
+.speak
+{
+    top:479px;
+    left: 447px;
+    position: absolute;
+}
+
+.speak button
+{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #00008b;
+    height: 33px; 
+    width: 120px;
+    font-family: verdana;
+    color: white;
+    font-size: 16px;
+    border: #00008b;
+    left: 100px;
+    cursor: pointer;
+
+}
+
+.speak button:hover
+{
+    background-color: #000060;
+}
+
+
+.pause
+{
+    top:479px;
+    left: 610px;
+    position: absolute;
+}
+
+.pause button
+{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #d43636;
+    height: 33px; 
+    width: 120px;
+    font-family: verdana;
+    color: white;
+    font-size: 16px;
+    border: #00008b;
+    left: 100px;
+    cursor: pointer;
+    
+
+}
+
+.pause button:hover
+{
+    background-color: #ff0000;
+}
+
+.resume
+{
+    top:479px;
+    left: 773px;
+    position: absolute;
+}
+
+.resume button
+{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #ffd900;
+    height: 33px; 
+    width: 120px;
+    font-family: verdana;
+    color: white;
+    font-size: 16px;
+    border: #00008b;
+    left: 100px;
+    cursor: pointer;
+    color: black;
+
+}
+
+.resume button:hover
+{
+    background-color: #f7b910;
+}
+
+.bottom_nav
+{
+    width: 1338.4px;
+    padding-top: 150px;
+    background-color: rgb(214, 224, 231);
+    border: 2px solid black;
+    top: 640px;
+    position: absolute;
+    padding-left: 1.1px;
+}
+
+.follow
+{
+    padding-left:385px;
+    top: 9.4px;
+    position: absolute;
+}
+
+.fa 
+{  
+    padding: 7px;  
+    text-align: center;  
+    margin: 35px 28px;  
+    font-size: 10px;  
+    width: 20px; 
+    border-radius: 10px; 
+} 
+
+
+.fa-facebook 
+{  
+    background: #3b5998;  
+    color: white;  
+    position: absolute;
+    left: 340px;
+    top: 50px;
+    
+}  
+
+.fa-twitter {  
+    background: #55ACEE;  
+    color: white; 
+    position: absolute;
+    left: 425px;
+    top: 50px;
+  }  
+ 
+  .fa-linkedin {  
+    background: #007bb5;  
+    color: white; 
+    position: absolute;
+    left: 512px;
+    top: 50px; 
+  }  
+
+
+.my_create
+{
+    position: absolute;
+    top: 0px;
+    left: 795px;
+}
+
+.contact_me
+{
+    position: absolute;
+    top: 77.2px;
+}
