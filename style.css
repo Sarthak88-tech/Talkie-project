@@ -9,6 +9,7 @@ body
     background-size: cover;
     height:644.4px;
     width: 1343.4px;
+
 }
 
 .wel
@@ -170,7 +171,7 @@ body
     padding-top: 150px;
     background-color: rgb(214, 224, 231);
     border: 2px solid black;
-    top: 747px;
+    top: 640px;
     position: absolute;
     padding-left: 1.1px;
 }
