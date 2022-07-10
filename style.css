@@ -5,17 +5,19 @@ body
 
 .bg_img1 img
 {
-    width: 100%;
+    position: relative;
     background-size: cover;
-    background-repeat: no-repeat;
+    height:644.4px;
+    width: 1343.4px;
+
 }
 
 .wel
 {
-    text-align: center;
+    left: 518px;
+    top: 20px;
     position: absolute;
-    width: 100%;
-    top: 34px;
+    
 }
 
 .container
@@ -27,7 +29,7 @@ body
     background-color: aliceblue;
     border: 2px solid black;
     top: 135px;
-    left: 375px;
+    left: 365px;
     position: absolute;
 }
 
@@ -35,7 +37,6 @@ body
 {
     font-size: 16px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
 }
 
 
@@ -80,7 +81,7 @@ body
 .speak
 {
     top:479px;
-    left: 451px;
+    left: 447px;
     position: absolute;
 }
 
@@ -109,7 +110,7 @@ body
 .pause
 {
     top:479px;
-    left: 614px;
+    left: 610px;
     position: absolute;
 }
 
@@ -138,7 +139,7 @@ body
 .resume
 {
     top:479px;
-    left: 777px;
+    left: 773px;
     position: absolute;
 }
 
@@ -166,21 +167,27 @@ body
 
 .bottom_nav
 {
-    width: 100%;
+    width: 1338.4px;
+    padding-top: 150px;
     background-color: rgb(214, 224, 231);
     border: 2px solid black;
-    text-align: center;
-    padding-top: 0px;
+    top: 640px;
     position: absolute;
-    top: 890px;
+    padding-left: 1.1px;
 }
 
+.follow
+{
+    padding-left:385px;
+    top: 9.4px;
+    position: absolute;
+}
 
 .fa 
 {  
     padding: 7px;  
     text-align: center;  
-    margin: 3px 28px;  
+    margin: 35px 28px;  
     font-size: 10px;  
     width: 20px; 
     border-radius: 10px; 
@@ -191,25 +198,38 @@ body
 {  
     background: #3b5998;  
     color: white;  
-    left: 290px;
+    position: absolute;
+    left: 340px;
+    top: 50px;
+    
 }  
 
-.fa-twitter 
-{  
-    background: #2a8dd8;  
+.fa-twitter {  
+    background: #55ACEE;  
     color: white; 
-    left: 377px;
-}  
+    position: absolute;
+    left: 425px;
+    top: 50px;
+  }  
  
-.fa-linkedin 
-{  
+  .fa-linkedin {  
     background: #007bb5;  
-    color: white;  
-    left: 464px;
-}  
-
-.fa-instagram {  
-    background: #ff006a;  
     color: white; 
-    left: 551px; 
+    position: absolute;
+    left: 512px;
+    top: 50px; 
+  }  
+
+
+.my_create
+{
+    position: absolute;
+    top: 0px;
+    left: 795px;
+}
+
+.contact_me
+{
+    position: absolute;
+    top: 77.2px;
 }
