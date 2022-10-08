@@ -52,7 +52,7 @@
         window.speechSynthesis.pause(); 
     }); 
    
-    //RESUME 
+    //RESUME button
     resume.addEventListener('click', ()=> 
     {
         window.speechSynthesis.resume(); 
